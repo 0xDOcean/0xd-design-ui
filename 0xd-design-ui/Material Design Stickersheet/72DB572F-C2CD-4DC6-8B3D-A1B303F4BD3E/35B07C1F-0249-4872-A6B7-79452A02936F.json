@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGVldYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFwcIDxAeHyAhIiguMjo7PD0+QkZMT1BSVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAFoADXxAZU1lTVEVNIElDT05TIC0gTkFWSUdBVElPTtMREgoTGB1XTlMua2V5c1pOUy5vYmplY3RzpBQVFheABIAFgAaAB6QZGhscgAiACoASgBSAFVdOU0NvbG9yXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QEE5TUGFyYWdyYXBoU3R5bGVWTlNLZXJu0yMkCiUmJ1VOU1JHQlxOU0NvbG9yU3BhY2VPECcwLjI1ODgyMzUyOTQgMC41MjE1Njg2Mjc1IDAuOTU2ODYyNzQ1MQAQAYAJ0ikqKyxaJGNsYXNzbmFtZVgkY2xhc3Nlc1dOU0NvbG9yoistWE5TT2JqZWN00govMDFfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4ARgAvTERIKMzY5ojQ1gAyADaI3OIAOgA+AEF8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0A0AAAAAAAAXlJvYm90by1SZWd1bGFy0ikqP0BfEBNOU011dGFibGVEaWN0aW9uYXJ5oz9BLVxOU0RpY3Rpb25hcnnSKSpDRF8QEE5TRm9udERlc2NyaXB0b3KiRS1fEBBOU0ZvbnREZXNjcmlwdG9y00cKSElKS1pOU1RhYlN0b3BzW05TQWxpZ25tZW50gACAExAE0ikqTU5fEBBOU1BhcmFncmFwaFN0eWxlok0tIz/JmZmgAAAA0ikqQVGiQS3SKSpTVF8QEk5TQXR0cmlidXRlZFN0cmluZ6JVLV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFYWVRyb290gAEACAARABoAIwAtADIANwBRAFcAXgBnAG4AewB9AH8AgQCdAKQArAC3ALwAvgDAAMIAxADJAMsAzQDPANEA0wDbAP0BEAEXAR4BJAExAVsBXQFfAWQBbwF4AYABgwGMAZEBrgGwAbIBuQG8Ab4BwAHDAcUBxwHJAd8B9QH+Ag0CEgIoAiwCOQI+AlECVAJnAm4CeQKFAocCiQKLApACowKmAq8CtAK3ArwC0QLUAukC+wL+AwMAAAAAAAACAQAAAAAAAABaAAAAAAAAAAAAAAAAAAADBQ=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "35B07C1F-0249-4872-A6B7-79452A02936F",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 26,
+    "width": 280,
+    "x": 0,
+    "y": 0
+  },
+  "glyphBounds": "{{0, 0}, {276, 24}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 0,
+  "name": "SYSTEM ICONS - NAVIG",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "501A0267-AC02-4D5B-B15A-65F23E5CB138"
+  },
+  "textBehaviour": 0
+}

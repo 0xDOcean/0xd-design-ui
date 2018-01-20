@@ -1,0 +1,49 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "B87CCED6-1059-4B39-BC3A-7A7A31995B7C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 18.00100000000003,
+    "width": 14,
+    "x": 5.000000000000001,
+    "y": 2.998999999999796
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "A3A3471C-4A74-4B9F-A047-C83F843AF540"
+    },
+    {
+      "class": "shapePath",
+      "id": "EC04D085-F397-4AE2-A02A-F936F7B8CF64"
+    }
+  ],
+  "name": "Fill 3",
+  "nameIsFixed": false,
+  "resizingConstraint": 45,
+  "resizingType": 3,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "7C99330B-AC68-47B8-84E2-B406AF12E6D9"
+  },
+  "windingRule": 1
+}

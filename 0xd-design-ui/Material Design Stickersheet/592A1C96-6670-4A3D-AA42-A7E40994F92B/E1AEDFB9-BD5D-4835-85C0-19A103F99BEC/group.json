@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "E1AEDFB9-BD5D-4835-85C0-19A103F99BEC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 725,
+    "width": 912,
+    "x": 3097,
+    "y": 1762
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4EBBBA25-7FE7-4DD8-9724-78A95FDAAA3A"
+    },
+    {
+      "class": "text",
+      "id": "FA85C2DD-B1DF-4F5A-8EB5-8BFDF8BAD949"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5EA8DA01-A71F-407C-9B52-4383ED10562E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BC8A4DD4-3AB6-47F2-8CDF-EE387A5478E3"
+    }
+  ],
+  "name": "pickers",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "8FDFF459-4206-4756-A88D-463225E846EC",
+  "value": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 0.12,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "8FDFF459-4206-4756-A88D-463225E846EC",
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "4BC176D2-E51A-493F-82FB-19825E8C1DC1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 18,
+    "width": 18,
+    "x": 3,
+    "y": 3
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "9C46750E-0A5F-484B-B2D6-93A439F00B07"
+    },
+    {
+      "class": "shapePath",
+      "id": "458CF722-CE4A-4375-BDF8-0F452B441C60"
+    },
+    {
+      "class": "shapePath",
+      "id": "CB99C1FB-2DA2-4D9C-BB74-FA23CF5A4CC9"
+    }
+  ],
+  "name": "archive",
+  "nameIsFixed": true,
+  "resizingConstraint": 45,
+  "resizingType": 3,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "4C191B16-74FE-4806-B7B6-F7ED0770D4C6"
+  },
+  "windingRule": 1
+}

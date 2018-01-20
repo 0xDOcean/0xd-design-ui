@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGYGFYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGQcIDxAeHyAhIiMnLzAxMjM6PkdKTVFXWlxVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAYgANWVXBsb2Fk0xESChMYHVdOUy5rZXlzWk5TLm9iamVjdHOkFBUWF4AEgAWABoAHpBkaGxyACIAJgBGAFYAXWk5TTGlnYXR1cmVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZVdOU0NvbG9yEADSCiQlJl8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBCACtMREgooKy6iKSqAC4AMoiwtgA2ADoAPXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQDAAAAAAAABeUm9ib3RvLVJlZ3VsYXLSNDU2N1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaM2ODlcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00jQ1OzxfEBBOU0ZvbnREZXNjcmlwdG9yoj05XxAQTlNGb250RGVzY3JpcHRvctU/QEEKQkNERUZFWk5TVGFiU3RvcHNbTlNUZXh0TGlzdHNfEA9OU01pbkxpbmVIZWlnaHRfEA9OU01heExpbmVIZWlnaHSAAIASI0A4AAAAAAAAgBTSEgpISaCAE9I0NUtMV05TQXJyYXmiSznSNDVOT18QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo05QOV8QEE5TUGFyYWdyYXBoU3R5bGXTUlMKVFVWVU5TUkdCXE5TQ29sb3JTcGFjZU8QEzAgMCAwIDAuNTQxMzI2OTkyOAAQAYAW0jQ1WFlXTlNDb2xvcqJYOdI0NThbojg50jQ1XV5fEBJOU0F0dHJpYnV0ZWRTdHJpbmeiXzlfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRYmNUcm9vdIABAAgAEQAaACMALQAyADcAUwBZAGAAaQBwAH0AfwCBAIMAigCRAJkApACpAKsArQCvALEAtgC4ALoAvAC+AMAAywDtAQABCAEKAQ8BLAEuATABNwE6ATwBPgFBAUMBRQFHAV0BcwF8AYsBkAGbAaQBugG+AcsB1AHZAewB7wICAg0CGAIkAjYCSAJKAkwCVQJXAlwCXQJfAmQCbAJvAnQCjgKSAqUCrAKyAr8C1QLXAtkC3gLmAukC7gLxAvYDCwMOAyMDNQM4Az0AAAAAAAACAQAAAAAAAABkAAAAAAAAAAAAAAAAAAADPw=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "39D0CB2E-D0ED-4602-A1F6-0C7764D26A66",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 51,
+    "x": 71.9998999999998,
+    "y": 69
+  },
+  "glyphBounds": "{{0, 0}, {51, 24}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 1,
+  "name": "Upload",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "DE70D806-3B53-4C54-AEE7-6A94F35174A6"
+  },
+  "textBehaviour": 0
+}

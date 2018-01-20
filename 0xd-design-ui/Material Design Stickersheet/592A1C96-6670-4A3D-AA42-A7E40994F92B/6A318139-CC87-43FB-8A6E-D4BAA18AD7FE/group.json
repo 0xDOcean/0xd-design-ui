@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "6A318139-CC87-43FB-8A6E-D4BAA18AD7FE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 457,
+    "width": 912,
+    "x": 1,
+    "y": 2042
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A4DDFBE3-E4B3-4268-881B-B9E008DD118A"
+    },
+    {
+      "class": "text",
+      "id": "ED17145D-1725-4297-9743-119349FE1092"
+    },
+    {
+      "class": "group",
+      "id": "87FA7D80-D0D6-407B-BE4B-64EC00004B4F"
+    },
+    {
+      "class": "group",
+      "id": "01493ABC-F7C2-48C1-8008-C94105DB1461"
+    }
+  ],
+  "name": "bottom sheet",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

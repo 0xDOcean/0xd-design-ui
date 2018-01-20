@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGWFlYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFwcIDxAeHyAhIiguMjo7PD0+QkZNUVJUVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAFoADW0xpZ2h0IHRoZW1l0xESChMYHVdOUy5rZXlzWk5TLm9iamVjdHOkFBUWF4AEgAWABoAHpBkaGxyACIAKgBKAFIAVV05TQ29sb3JfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZVZOU0tlcm7TIyQKJSYnVU5TUkdCXE5TQ29sb3JTcGFjZU8QJzAuMjY2NjY2NjY2NyAwLjI2NjY2NjY2NjcgMC4yNjY2NjY2NjY3ABABgAnSKSorLFokY2xhc3NuYW1lWCRjbGFzc2VzV05TQ29sb3KiKy1YTlNPYmplY3TSCi8wMV8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBGAC9MREgozNjmiNDWADIANojc4gA6AD4AQXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQCoAAAAAAABdUm9ib3RvLU1lZGl1bdIpKj9AXxATTlNNdXRhYmxlRGljdGlvbmFyeaM/QS1cTlNEaWN0aW9uYXJ50ikqQ0RfEBBOU0ZvbnREZXNjcmlwdG9yokUtXxAQTlNGb250RGVzY3JpcHRvctRHCkhJSktMTFpOU1RhYlN0b3BzXxAPTlNNaW5MaW5lSGVpZ2h0XxAPTlNNYXhMaW5lSGVpZ2h0gACAEyNAMAAAAAAAANIpKk5PXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjTlAtXxAQTlNQYXJhZ3JhcGhTdHlsZSMAAAAAAAAAANIpKkFTokEt0ikqVVZfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiVy1fEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRWltUcm9vdIABAAgAEQAaACMALQAyADcAUQBXAF4AZwBuAHsAfQB/AIEAjQCUAJwApwCsAK4AsACyALQAuQC7AL0AvwDBAMMAywDtAQABBwEOARQBIQFLAU0BTwFUAV8BaAFwAXMBfAGBAZ4BoAGiAakBrAGuAbABswG1AbcBuQHPAeUB7gH8AgECFwIbAigCLQJAAkMCVgJfAmoCfAKOApACkgKbAqACugK+AtEC2gLfAuIC5wL8Av8DFAMmAykDLgAAAAAAAAIBAAAAAAAAAFwAAAAAAAAAAAAAAAAAAAMw"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "2E07A5DF-FAB1-4201-ABAD-6A2FCD08211C",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 16,
+    "width": 70,
+    "x": 115,
+    "y": 0
+  },
+  "glyphBounds": "{{0, 0}, {70, 16}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 0,
+  "name": "Light theme",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "B98CCE69-2610-4875-A1B3-708FB9173F16"
+  },
+  "textBehaviour": 1
+}

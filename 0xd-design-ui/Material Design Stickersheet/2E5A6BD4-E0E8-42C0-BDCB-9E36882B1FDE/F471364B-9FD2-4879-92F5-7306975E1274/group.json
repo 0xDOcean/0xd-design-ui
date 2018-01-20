@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "F471364B-9FD2-4879-92F5-7306975E1274",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 105,
+    "width": 289,
+    "x": 0,
+    "y": 156
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "160DEBF0-7EBA-4F8F-BC9A-DDF1AF0E531F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3A51200B-FC01-4984-BD1D-F59834851E5F"
+    }
+  ],
+  "name": "Roboto test",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

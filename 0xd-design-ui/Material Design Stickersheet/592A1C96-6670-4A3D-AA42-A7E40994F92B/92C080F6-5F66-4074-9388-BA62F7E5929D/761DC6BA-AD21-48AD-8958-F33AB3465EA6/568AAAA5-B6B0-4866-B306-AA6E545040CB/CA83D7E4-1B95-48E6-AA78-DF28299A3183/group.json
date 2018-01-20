@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "CA83D7E4-1B95-48E6-AA78-DF28299A3183",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 228,
+    "width": 172,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "20597D20-C273-4C2C-9F1F-C438F6DE6DF9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CFC53C1C-46A0-4CBF-AA86-AB0EBED1164D"
+    },
+    {
+      "class": "text",
+      "id": "EDED2140-28F8-4B75-9DC8-C112A8261FFA"
+    },
+    {
+      "class": "text",
+      "id": "6C6D2ADE-B040-47E2-9943-858D16E15480"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AFC77323-7174-4B34-A7BF-6DF191BAEF79"
+    }
+  ],
+  "name": "tile",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

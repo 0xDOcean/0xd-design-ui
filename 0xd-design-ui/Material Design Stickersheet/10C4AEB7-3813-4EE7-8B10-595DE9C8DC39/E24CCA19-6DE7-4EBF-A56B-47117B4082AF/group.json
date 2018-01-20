@@ -1,0 +1,101 @@
+{
+  "_class": "group",
+  "do_objectID": "E24CCA19-6DE7-4EBF-A56B-47117B4082AF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 762,
+    "width": 1281,
+    "x": -1,
+    "y": 32
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "0A177B51-F22F-49B8-8164-2E69E193A250"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "05B1922E-93A6-4F95-9B09-330031A10CFD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F1CD04E6-C0CC-409D-BBAB-44BFD66693C8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EA59A1A5-1102-4635-B26C-0261B9E5A4F1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7AE5A4FF-81AB-47A9-BBA9-E3FB07D8B1D5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5BA9EC2C-0CA0-42FA-9035-0E8260FC0ADE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0B4DC741-1D1C-4608-A6FF-90A3C206B78D"
+    },
+    {
+      "class": "text",
+      "id": "0F2E3B2D-19A5-4560-8ED8-ACC5210C9EC0"
+    },
+    {
+      "class": "text",
+      "id": "5C8DD54C-1763-4D6C-8C5D-4DAB10706FE6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "22E2C85D-B986-4F67-A7FB-90F814687B1B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1469E81E-6DBA-4B99-8F26-DC99D27ED92F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "17F7FE3F-FBC5-4EC4-93A3-F9E025F7955D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BD6D0B0C-03C3-4065-9659-7A21DB406996"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9962E31D-D514-4BE3-B069-B92A42B895F6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CDD2A1C4-E659-4240-99AF-505976C57E60"
+    }
+  ],
+  "name": "redlines",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

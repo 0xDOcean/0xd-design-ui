@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "11698196-9B6E-4AB5-B59E-076E949980F3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 180,
+    "width": 320,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5164279C-A835-43D1-92A1-CBF6D16F36BF"
+    },
+    {
+      "class": "text",
+      "id": "60B229F1-ADFC-4584-B6ED-EBA488704C17"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DDD9566A-8546-4835-B012-B750C2C6717C"
+    },
+    {
+      "class": "group",
+      "id": "B9EDB5D9-9F57-4ECD-BF12-418CA3CCF522"
+    }
+  ],
+  "name": "account switcher",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

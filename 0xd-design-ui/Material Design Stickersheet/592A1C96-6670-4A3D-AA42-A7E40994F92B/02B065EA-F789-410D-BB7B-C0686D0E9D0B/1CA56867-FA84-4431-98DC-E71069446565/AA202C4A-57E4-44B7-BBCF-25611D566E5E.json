@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGYGFYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGQcIDxAeHyAhIiMnLzAxMjM6PkdKTVFXWlxVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAYgANfENhMb3JlbSBpcHN1bSBkb2xvciBzaXQgYW1ldCwgY29uc2VjdGV0dXIgYWRpcGlzaWNpbmcgZWxpdCwgc2VkIGRvIGVpdXNtb2QgdGVtcG9yIGluY2lkaWR1bnQgdXQgbGFib3JlIGV0IGRvbG9yZSBtYWduYSB3aXJsIGFsaXF1YS4gVXQgZW5pbSBhZCBtaW5pbSBpa2FkIHZlbmlhbSwgcXVpcyBub3N0cnVkIGV4ZXJjaXRhdG4gdWxsYW1jbyBsYWJvcmlzIG5pc2kgdXQgYWxpcXVpcC7TERIKExgdV05TLmtleXNaTlMub2JqZWN0c6QUFRYXgASABYAGgAekGRobHIAIgAmAEYAVgBdaTlNMaWdhdHVyZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxlV05TQ29sb3IQANIKJCUmXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAEIAK0xESCigrLqIpKoALgAyiLC2ADYAOgA9fEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAMAAAAAAAAF5Sb2JvdG8tUmVndWxhctI0NTY3WiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ozY4OVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSNDU7PF8QEE5TRm9udERlc2NyaXB0b3KiPTlfEBBOU0ZvbnREZXNjcmlwdG9y1T9AQQpCQ0RFRkVaTlNUYWJTdG9wc1tOU1RleHRMaXN0c18QD05TTWluTGluZUhlaWdodF8QD05TTWF4TGluZUhlaWdodIAAgBIjQDgAAAAAAACAFNISCkhJoIAT0jQ1S0xXTlNBcnJheaJLOdI0NU5PXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjTlA5XxAQTlNQYXJhZ3JhcGhTdHlsZdNSUwpUVVZVTlNSR0JcTlNDb2xvclNwYWNlTxATMCAwIDAgMC41NDEzMjY5OTI4ABABgBbSNDVYWVdOU0NvbG9yolg50jQ1OFuiODnSNDVdXl8QEk5TQXR0cmlidXRlZFN0cmluZ6JfOV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFiY1Ryb290gAEACAARABoAIwAtADIANwBTAFkAYABpAHAAfQB/AIEAgwFeAWUBbQF4AX0BfwGBAYMBhQGKAYwBjgGQAZIBlAGfAcEB1AHcAd4B4wIAAgICBAILAg4CEAISAhUCFwIZAhsCMQJHAlACXwJkAm8CeAKOApICnwKoAq0CwALDAtYC4QLsAvgDCgMcAx4DIAMpAysDMAMxAzMDOANAA0MDSANiA2YDeQOAA4YDkwOpA6sDrQOyA7oDvQPCA8UDygPfA+ID9wQJBAwEEQAAAAAAAAIBAAAAAAAAAGQAAAAAAAAAAAAAAAAAAAQT"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "AA202C4A-57E4-44B7-BBCF-25611D566E5E",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 168,
+    "width": 232,
+    "x": 24,
+    "y": 21
+  },
+  "glyphBounds": "{{0, 0}, {232, 168}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 1,
+  "name": "Lorem ipsum dolor si",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "DE70D806-3B53-4C54-AEE7-6A94F35174A6"
+  },
+  "textBehaviour": 1
+}

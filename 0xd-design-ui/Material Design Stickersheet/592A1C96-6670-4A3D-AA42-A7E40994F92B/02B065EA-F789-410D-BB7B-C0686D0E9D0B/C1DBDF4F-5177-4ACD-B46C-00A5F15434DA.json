@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGWFlYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFwcIDxAeHyAhIiguMjo7PD0+QkZNUVJUVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAFoADWldpdGggdGl0bGXTERIKExgdV05TLmtleXNaTlMub2JqZWN0c6QUFRYXgASABYAGgAekGRobHIAIgAqAEoAUgBVXTlNDb2xvcl8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxlVk5TS2VybtMjJAolJidVTlNSR0JcTlNDb2xvclNwYWNlTxAnMC4yNjY2NjY2NjY3IDAuMjY2NjY2NjY2NyAwLjI2NjY2NjY2NjcAEAGACdIpKissWiRjbGFzc25hbWVYJGNsYXNzZXNXTlNDb2xvcqIrLVhOU09iamVjdNIKLzAxXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAEYAL0xESCjM2OaI0NYAMgA2iNziADoAPgBBfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAKgAAAAAAAF1Sb2JvdG8tTWVkaXVt0ikqP0BfEBNOU011dGFibGVEaWN0aW9uYXJ5oz9BLVxOU0RpY3Rpb25hcnnSKSpDRF8QEE5TRm9udERlc2NyaXB0b3KiRS1fEBBOU0ZvbnREZXNjcmlwdG9y1EcKSElKS0xMWk5TVGFiU3RvcHNfEA9OU01pbkxpbmVIZWlnaHRfEA9OU01heExpbmVIZWlnaHSAAIATI0AwAAAAAAAA0ikqTk9fEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaNOUC1fEBBOU1BhcmFncmFwaFN0eWxlIwAAAAAAAAAA0ikqQVOiQS3SKSpVVl8QEk5TQXR0cmlidXRlZFN0cmluZ6JXLV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFaW1Ryb290gAEACAARABoAIwAtADIANwBRAFcAXgBnAG4AewB9AH8AgQCMAJMAmwCmAKsArQCvALEAswC4ALoAvAC+AMAAwgDKAOwA/wEGAQ0BEwEgAUoBTAFOAVMBXgFnAW8BcgF7AYABnQGfAaEBqAGrAa0BrwGyAbQBtgG4Ac4B5AHtAfsCAAIWAhoCJwIsAj8CQgJVAl4CaQJ7Ao0CjwKRApoCnwK5Ar0C0ALZAt4C4QLmAvsC/gMTAyUDKAMtAAAAAAAAAgEAAAAAAAAAXAAAAAAAAAAAAAAAAAAAAy8="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "C1DBDF4F-5177-4ACD-B46C-00A5F15434DA",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 16,
+    "width": 53,
+    "x": 496,
+    "y": 384
+  },
+  "glyphBounds": "{{0, 0}, {52, 16}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 0,
+  "name": "With title",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "B98CCE69-2610-4875-A1B3-708FB9173F16"
+  },
+  "textBehaviour": 0
+}

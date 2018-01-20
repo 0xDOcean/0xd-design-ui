@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGWFlYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFwcIDxAeHyAhIiguMjo7PD0+QkZNUVJUVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAFoADV1BpY2tlcnPTERIKExgdV05TLmtleXNaTlMub2JqZWN0c6QUFRYXgASABYAGgAekGRobHIAIgAqAEoAUgBVXTlNDb2xvcl8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxlVk5TS2VybtMjJAolJidVTlNSR0JcTlNDb2xvclNwYWNlTxAnMC4yNjY2NjY2NjY3IDAuMjY2NjY2NjY2NyAwLjI2NjY2NjY2NjcAEAGACdIpKissWiRjbGFzc25hbWVYJGNsYXNzZXNXTlNDb2xvcqIrLVhOU09iamVjdNIKLzAxXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAEYAL0xESCjM2OaI0NYAMgA2iNziADoAPgBBfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAKgAAAAAAAF1Sb2JvdG8tTWVkaXVt0ikqP0BfEBNOU011dGFibGVEaWN0aW9uYXJ5oz9BLVxOU0RpY3Rpb25hcnnSKSpDRF8QEE5TRm9udERlc2NyaXB0b3KiRS1fEBBOU0ZvbnREZXNjcmlwdG9y1EcKSElKS0xMWk5TVGFiU3RvcHNfEA9OU01pbkxpbmVIZWlnaHRfEA9OU01heExpbmVIZWlnaHSAAIATI0AwAAAAAAAA0ikqTk9fEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaNOUC1fEBBOU1BhcmFncmFwaFN0eWxlIwAAAAAAAAAA0ikqQVOiQS3SKSpVVl8QEk5TQXR0cmlidXRlZFN0cmluZ6JXLV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFaW1Ryb290gAEACAARABoAIwAtADIANwBRAFcAXgBnAG4AewB9AH8AgQCJAJAAmACjAKgAqgCsAK4AsAC1ALcAuQC7AL0AvwDHAOkA/AEDAQoBEAEdAUcBSQFLAVABWwFkAWwBbwF4AX0BmgGcAZ4BpQGoAaoBrAGvAbEBswG1AcsB4QHqAfgB/QITAhcCJAIpAjwCPwJSAlsCZgJ4AooCjAKOApcCnAK2AroCzQLWAtsC3gLjAvgC+wMQAyIDJQMqAAAAAAAAAgEAAAAAAAAAXAAAAAAAAAAAAAAAAAAAAyw="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "FA85C2DD-B1DF-4F5A-8EB5-8BFDF8BAD949",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 15.99999999999999,
+    "width": 44.00000000000001,
+    "x": 0,
+    "y": 0
+  },
+  "glyphBounds": "{{0, 0}, {44.000000000000007, 15.999999999999995}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 0,
+  "name": "Pickers",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "B98CCE69-2610-4875-A1B3-708FB9173F16"
+  },
+  "textBehaviour": 0
+}

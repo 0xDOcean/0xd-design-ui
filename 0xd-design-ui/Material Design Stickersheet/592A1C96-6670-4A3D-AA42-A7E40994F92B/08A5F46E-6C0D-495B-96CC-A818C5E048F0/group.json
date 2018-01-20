@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "08A5F46E-6C0D-495B-96CC-A818C5E048F0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 373,
+    "width": 912,
+    "x": 1033,
+    "y": 2126
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "28191851-B177-42F7-8775-A6AE70EA1ABC"
+    },
+    {
+      "class": "text",
+      "id": "37D27127-E125-4B19-8E43-A8299F68B412"
+    },
+    {
+      "class": "group",
+      "id": "5FA73390-DB61-43FB-B8C9-DECF268DDD03"
+    },
+    {
+      "class": "group",
+      "id": "047932AA-25F9-4E02-A209-39EA83D6A9FD"
+    }
+  ],
+  "name": "chips",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

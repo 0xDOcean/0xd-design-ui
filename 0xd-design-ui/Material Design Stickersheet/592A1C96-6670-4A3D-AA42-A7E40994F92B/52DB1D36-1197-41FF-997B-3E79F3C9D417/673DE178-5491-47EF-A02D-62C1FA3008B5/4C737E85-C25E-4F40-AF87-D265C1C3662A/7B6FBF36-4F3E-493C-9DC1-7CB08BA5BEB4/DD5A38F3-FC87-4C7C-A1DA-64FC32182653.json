@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGd3hYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHQcIERIYJSYnKCkqLjY3ODk6QUVLT1VYWmZna29zVSRudWxs1AkKCwwNDg8QWE5TU3RyaW5nXxAPTlNBdHRyaWJ1dGVJbmZvXE5TQXR0cmlidXRlc1YkY2xhc3OAAoAagAOAHFlUSEUgVEhJUkTSEwwUF1pOUy5vYmplY3RzohUWgASAF4AZ0xkTDBofJFdOUy5rZXlzpBscHR6ABYAGgAeACKQgISIjgAmACoASgBSAFlZOU0tlcm5fEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZVdOU0NvbG9yIz/gAAAAAAAA0gwrLC1fEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4ARgAvTGRMMLzI1ojAxgAyADaIzNIAOgA+AEF8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AsAAAAAAAAXVJvYm90by1NZWRpdW3SOzw9PlokY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaM9P0BcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00js8QkNfEBBOU0ZvbnREZXNjcmlwdG9yokRAXxAQTlNGb250RGVzY3JpcHRvctNGDEdISUpaTlNUYWJTdG9wc1tOU0FsaWdubWVudIAAgBMQAtI7PExNXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjTE5AXxAQTlNQYXJhZ3JhcGhTdHlsZdNQUQxSU1RVTlNSR0JcTlNDb2xvclNwYWNlSjEgMSAxIDAuNwAQAYAV0js8VldXTlNDb2xvcqJWQNI7PD9Zoj9A0xkTDFtgJKQbHB0egAWABoAHgAikYSEiI4AYgAqAEoAUgBYQANI7PGhpXk5TTXV0YWJsZUFycmF5o2hqQFdOU0FycmF50mwMbW5XTlMuZGF0YUQIAAEBgBvSOzxwcV1OU011dGFibGVEYXRho3ByQFZOU0RhdGHSOzx0dV8QEk5TQXR0cmlidXRlZFN0cmluZ6J2QF8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctF5elRyb290gAEACAARABoAIwAtADIANwBXAF0AZgBvAIEAjgCVAJcAmQCbAJ0ApwCsALcAugC8AL4AwADHAM8A1ADWANgA2gDcAOEA4wDlAOcA6QDrAPIBFAEnAS8BOAE9AVoBXAFeAWUBaAFqAWwBbwFxAXMBdQGLAaEBqgG4Ab0ByAHRAecB6wH4AgECBgIZAhwCLwI2AkECTQJPAlECUwJYAnICdgKJApAClgKjAq4CsAKyArcCvwLCAscCygLRAtYC2ALaAtwC3gLjAuUC5wLpAusC7QLvAvQDAwMHAw8DFAMcAyEDIwMoAzYDOgNBA0YDWwNeA3MDhQOIA40AAAAAAAACAQAAAAAAAAB7AAAAAAAAAAAAAAAAAAADjw=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "DD5A38F3-FC87-4C7C-A1DA-64FC32182653",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 16,
+    "width": 120,
+    "x": 240,
+    "y": 15
+  },
+  "glyphBounds": "{{0, 0}, {120, 16.40625}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 1,
+  "name": "THE THIRD",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "8C893648-E447-4500-8A51-94FC48FF937D"
+  },
+  "textBehaviour": 1
+}
